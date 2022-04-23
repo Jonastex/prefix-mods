@@ -1,0 +1,11 @@
+C:\Users\Jonastex\source\repos\prefixgenerate\prefixgenerate\bin\Debug\prefixgenerate.exe.config
+C:\Users\Jonastex\source\repos\prefixgenerate\prefixgenerate\bin\Debug\prefixgenerate.exe
+C:\Users\Jonastex\source\repos\prefixgenerate\prefixgenerate\bin\Debug\prefixgenerate.pdb
+C:\Users\Jonastex\source\repos\prefixgenerate\prefixgenerate\obj\Debug\prefixgenerate.csproj.AssemblyReference.cache
+C:\Users\Jonastex\source\repos\prefixgenerate\prefixgenerate\obj\Debug\prefixgenerate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jonastex\source\repos\prefixgenerate\prefixgenerate\obj\Debug\prefixgenerate.Form1.resources
+C:\Users\Jonastex\source\repos\prefixgenerate\prefixgenerate\obj\Debug\prefixgenerate.Properties.Resources.resources
+C:\Users\Jonastex\source\repos\prefixgenerate\prefixgenerate\obj\Debug\prefixgenerate.csproj.GenerateResource.cache
+C:\Users\Jonastex\source\repos\prefixgenerate\prefixgenerate\obj\Debug\prefixgenerate.csproj.CoreCompileInputs.cache
+C:\Users\Jonastex\source\repos\prefixgenerate\prefixgenerate\obj\Debug\prefixgenerate.exe
+C:\Users\Jonastex\source\repos\prefixgenerate\prefixgenerate\obj\Debug\prefixgenerate.pdb
